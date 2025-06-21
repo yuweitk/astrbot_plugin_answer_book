@@ -1,0 +1,10 @@
+name: 答案之书
+author: 雨爲/yuweitk
+description: 基于LLM的答案之书插件，向宇宙寻求答案
+version: 1.0.0
+repository: https://github.com/yuweitk/astrbot_plugin_answer_book
+license: MIT
+tags:
+  - llm
+  - 娱乐
+  - 问答
