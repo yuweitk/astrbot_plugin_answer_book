@@ -12,7 +12,7 @@
         "type": "text",
         "hint": "每行一个关键词，问题中包含这些词将被拒绝回答",
         "default": "政治\n色情\n反动\n恐怖\n暴力\n毒品\n赌博",
-        "editor_mode": true,
-        "editor_language": "plaintext"
+        "multiline": true,
+        "placeholder": "每行输入一个关键词"
     }
 }
