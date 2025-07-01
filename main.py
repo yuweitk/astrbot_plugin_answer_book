@@ -28,7 +28,7 @@ class AnswerBookPlugin(Star):
         /答案之书 我该选择哪份工作？
         /答案之书 如何提高工作效率？
         '''
-        
+      
         # 如果没有提供问题参数，显示使用帮助
         if not question:
             help_text = (
